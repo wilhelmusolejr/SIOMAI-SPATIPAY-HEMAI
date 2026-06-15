@@ -41,16 +41,3 @@ email, enter it, and the redemption link is sent your way.
 > ⚠️ **Seeing “Risk reject”?**
 > It means your current IP has been flagged or detected by the brand.
 > Switch to a **proxy or VPN** and try again.
-
----
-
-## 👥 Credits
-
-| | Member | Role |
-|---|--------|------|
-| 🧑‍💻 | **[PHC - Nicxs](https://phcorner.org/members/1568161/)** | Web Developer |
-| 🎨 | **[PHC - Brendan666](https://phcorner.org/members/2539053/)** | Web Designer and Developer |
-
----
-
-<sub>Developer / technical documentation lives in **CLAUDE.md**.</sub>
